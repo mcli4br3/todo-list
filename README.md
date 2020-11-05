@@ -75,3 +75,5 @@ python3 -m pytest --doctest-modules --junitxml=junit/test-results.xml --cov=appl
 This will generate reports that are readable by JUnit and Cobertura.
 
 Hello WOrld!
+HI
+
